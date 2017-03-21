@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Photo.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -105,7 +105,7 @@
           "_anchor": "menu-1",
           "_params": {
             "bgColor": "#9b59b6",
-            "fontSize": "1.3",
+            "fontSize": "1.35",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -113,7 +113,7 @@
             },
             "fontColor": "#ecf0f1",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -207,10 +207,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -252,7 +252,7 @@
           "_anchor": "menu-8",
           "_params": {
             "bgColor": "#9b59b6",
-            "fontSize": "1.3",
+            "fontSize": "1.35",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -260,7 +260,7 @@
             },
             "fontColor": "#ecf0f1",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -316,7 +316,7 @@
                 "title": "title 2",
                 "text": "text 2",
                 "tooltip": "@PROJECT_PATH@/assets/images/mask-85x48.png",
-                "active": false
+                "active": true
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/fireicybear-2000x1480.jpg",
@@ -340,7 +340,7 @@
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/liquid%20field-2000x1121.jpg",
-                "active": true,
+                "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/liquid-field-1024x576.jpg",
@@ -353,12 +353,12 @@
             "bgColor": "#ffffff",
             "animType": "kenburns",
             "autoplay": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "fullScreen": true,
             "showBullets": false,
             "timeout": 2,
-            "duration": 2,
+            "duration": "3",
             "height": "576",
             "width": "1024",
             "responsive": "1",
