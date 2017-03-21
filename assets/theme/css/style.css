@@ -3413,6 +3413,8 @@ html, body {
   .mbr-arrow img {
     display: block;
     position: absolute;
+    top: 50%;
+    right: 30%;
     top: calc(50% - 2px);
     right: calc(50% - 10px); }
   .mbr-arrow-floating img {
@@ -3797,7 +3799,8 @@ html.is-builder {
       font-size: 14px;
       text-transform: uppercase;
       letter-spacing: 2px;
-      color: #fff; }
+      color: #fff;
+      outline: none; }
       .header5 .nav-tabs .nav-link:after {
         content: '';
         position: absolute;
@@ -4502,24 +4505,29 @@ html.is-builder {
 .countdown2 .dot {
   display: none; }
 
-.contacts .mbr-section-subtitle,
-.contacts .mbr-section-title,
-.contacts .mbr-section-text {
-  color: #222; }
-.contacts .category {
-  font-size: 12px;
-  text-transform: uppercase;
-  margin-bottom: 10px; }
-.contacts .btn-wrap .btn {
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  margin: 0 20px 20px 0;
-  line-height: 40px;
-  font-size: 1.25rem;
-  text-align: center; }
-.contacts .mbr-map {
-  height: 56vh; }
+.contacts {
+  display: table;
+  width: 100%; }
+  .contacts .mbr-section-subtitle,
+  .contacts .mbr-section-title,
+  .contacts .mbr-section-text {
+    color: #222; }
+  .contacts .category {
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 10px; }
+  .contacts .btn-wrap .btn {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin: 0 20px 20px 0;
+    line-height: 40px;
+    font-size: 1.25rem;
+    text-align: center; }
+  .contacts .mbr-map {
+    height: 56vh; }
+  .contacts .mbr-table-cell {
+    width: 100%; }
 
 .contacts.contacts2 .btn {
   margin: 0 0 20px 20px; }
@@ -5893,10 +5901,49 @@ html.is-builder {
   bottom: 10px;
   left: 0; }
 
+.hamburger-icon {
+  position: absolute;
+  right: 0; }
+
+.navbar-toggler {
+  position: relative; }
+
+.close-icon {
+  position: absolute !important;
+  top: 0;
+  right: 0; }
+
+.navbar-brand .text-black {
+  color: #000 !important; }
+
+.navbar-toggler.collapsed .hum-top, .hum-middle, .hum-bottom {
+  position: absolute;
+  content: "";
+  right: 0;
+  width: 20px;
+  height: 3px; }
+
+.navbar-toggler.collapsed .hum-top {
+  top: -1px; }
+
+.navbar-toggler.collapsed .hum-middle {
+  top: 6px; }
+
+.navbar-toggler.collapsed .hum-bottom {
+  bottom: 0; }
+
+.navbar-close .close-icon {
+  display: block; }
+
+.navbar-close.collapsed .close-icon {
+  display: none; }
+
 /*# sourceMappingURL=style.css.map */
 .engine {
 	position: absolute;
 	text-indent: -2400px;
 	text-align: center;
 	padding: 0;
+	top: 0;
+	left: -2400px;
 }

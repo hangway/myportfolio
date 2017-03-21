@@ -22,8 +22,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 18,
-    "versionPublish": "3.10.4",
+    "uniqCompNum": 19,
+    "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/newsfeed-mobile-128x126-73.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -137,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Photo Artistry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Reel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">UX/UI</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">About Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">UX/UI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Case One</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Arts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photoshop Artistry</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contacts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -174,16 +174,17 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "UX/UI<br>Video Production<br>Multimedia",
+          "title": "UX/UI<br>Video Production<br>Multimedia<br>Digital Marketing",
           "text": "Story, &nbsp;Visual, &nbsp;Arts",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png"
         }
       ]
     },
-    "UIUX.html": {
+    "Photo.html": {
       "settings": {
-        "title": "UI/UX Design"
+        "title": "Art",
+        "header_custom": ""
       },
       "components": [
         {
@@ -283,227 +284,90 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">UX/UI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Arts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contacts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">UX/UI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Case One</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Arts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photo.html\">Photoshop Artistry</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contacts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_inherit": "news1",
-          "alias": "colorm/components",
+          "alias": "wowslider",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_styles": {},
-          "_name": "news2",
+          "_name": "wowslider",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "news": [
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/04.jpeg",
-                "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero eveniet nam non dolorum magnam dolore, veritatis id repellat sapiente sunt odit repudiandae molestias ipsa laborum amet iure explicabo reiciendis aspernatur. Eum porro officia, harum quo deleniti ipsum, ducimus totam modi facilis, ea dicta animi. Repudiandae nostrum repellat, nihil. Nulla voluptas aut tenetur quae reprehenderit dolores delectus sed harum aliquid doloremque, odio, repellat, tempore, consequuntur cupiditate placeat nostrum possimus. Totam officiis at ipsam quam eius neque, sequi fuga itaque beatae consectetur impedit rem quod reprehenderit enim aperiam, debitis, sunt, facere quos. Ducimus dolore quidem harum iusto fugiat voluptatem esse atque asperiores.",
-                "date": "10 june 2016"
+                "src": "@PROJECT_PATH@/assets/images/tree%20fest-2000x1121.png",
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/tree-fest-1024x576.jpg",
+                "title": "title 1",
+                "text": "text 1",
+                "tooltip": "@PROJECT_PATH@/assets/images/tree-fest-85x48.png",
+                "active": false
               },
               {
-                "wide": true,
-                "image": "@PROJECT_PATH@/assets/images/05.jpeg",
-                "title": "Lorem ipsum dolor sit amet, Illo autem, cum voluptas?",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur possimus distinctio commodi! At molestias unde dolorum, fugit sequi nam voluptate aut assumenda repudiandae eum porro sapiente quod fugiat, inventore quisquam maxime ullam provident voluptatum! Aliquid recusandae aut fugit facere asperiores neque praesentium quia laborum libero minima ut, est error dolor porro nesciunt in accusantium nostrum hic dolores deleniti iure blanditiis! Quaerat expedita repellendus, assumenda illo dicta ipsam, esse repellat quo blanditiis nemo non at unde voluptatem harum doloremque. Suscipit alias sit ex expedita, dolores, deleniti error ratione, libero sed dolore illo, deserunt delectus? Voluptates fugit excepturi repudiandae quibusdam, blanditiis voluptatibus.",
-                "date": "10 june 2016"
+                "src": "@PROJECT_PATH@/assets/images/mask-2000x1500.jpg",
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/mask-1024x576.jpg",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/mask-85x48.png",
+                "active": false
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/fireicybear-2000x1480.jpg",
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/fireicybear-1024x576.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/fireicybear-85x48.png",
+                "active": false
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/discobears-2000x1480.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/discobears-1024x576.jpg",
+                "title": "title 1",
+                "text": "text 1",
+                "tooltip": "@PROJECT_PATH@/assets/images/discobears-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/liquid%20field-2000x1121.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/liquid-field-1024x576.jpg",
+                "title": "title 1",
+                "text": "text 1",
+                "tooltip": "@PROJECT_PATH@/assets/images/liquid-field-85x48.png"
               }
             ],
-            "showImages": true,
-            "showTitle": true,
-            "showText": true,
-            "showDate": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "theme": "boundary",
+            "bgColor": "#ffffff",
+            "animType": "kenburns",
+            "autoplay": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "fullScreen": true,
+            "showBullets": false,
+            "timeout": 2,
+            "duration": 2,
+            "height": "576",
+            "width": "1024",
+            "responsive": "1",
+            "showCaptions": false,
+            "captionsEffect": "slide",
+            "hideControls": false
           },
-          "_anchor": "news2-9"
-        },
-        {
-          "_inherit": "news1",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {},
-          "_name": "news3",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "news": [
-              {
-                "wide": true,
-                "image": "@PROJECT_PATH@/assets/images/06.jpeg",
-                "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia architecto a officia incidunt impedit fugit, quidem minima est, magnam sequi quibusdam veniam perspiciatis ut vero deleniti aut nam autem cupiditate iusto quis. Quasi voluptatibus ullam, consectetur nulla accusantium sint molestiae enim perferendis iure, voluptas, voluptatem eos deleniti sequi ab. Atque sit nobis perferendis corrupti quia eum rerum facilis vel, pariatur voluptates quod perspiciatis, adipisci! Cum dolorum eaque sit, ex distinctio deleniti quisquam saepe fugiat impedit necessitatibus dicta laborum ratione doloremque, enim perspiciatis eligendi provident placeat? Totam aut aliquam reprehenderit ad itaque quis quasi nam, eveniet, similique nobis? Quos itaque, quo.",
-                "date": "10 june 2016"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/07.jpeg",
-                "title": "Lorem ipsum dolor sit amet, Illo autem, cum voluptas?",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eaque quasi in aperiam temporibus, ex cumque maxime labore ab officiis optio! Reiciendis et possimus optio corrupti quam debitis, libero necessitatibus architecto quas perspiciatis aperiam amet vitae, illo quod iusto velit quibusdam quia nulla porro voluptate ex animi placeat natus fugit. Totam at neque quo excepturi, adipisci laboriosam explicabo repellendus exercitationem a! Totam, autem eum ab, in iste porro fugiat ex officia tempore harum aliquam aut eius odit magnam placeat quae mollitia dignissimos assumenda at. Eos deserunt voluptates quasi officiis consectetur, quo id illo nihil aperiam aliquam. Necessitatibus eaque pariatur ad.",
-                "date": "10 june 2016"
-              }
-            ],
-            "showImages": true,
-            "showTitle": true,
-            "showText": true,
-            "showDate": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
-          },
-          "_anchor": "news3-a"
-        },
-        {
-          "_styles": {},
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "news1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "news": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/01.jpeg",
-                "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia sit molestias error, magni deleniti consectetur voluptas soluta, placeat quo voluptatem tempora ullam, velit in sunt suscipit recusandae natus quia porro eveniet? Quis vitae ad voluptas, ullam deserunt. Odit sapiente laborum, obcaecati facere iusto animi alias iste quis. Itaque molestiae quibusdam voluptatibus suscipit, quisquam sequi reiciendis minima nihil. Reiciendis sed, mollitia minima aliquam! Porro vitae error enim totam accusamus consequuntur laboriosam, esse quisquam nulla quibusdam! Libero consequuntur saepe, quo perspiciatis itaque beatae accusamus minus veniam aspernatur, neque, dignissimos repellat modi laborum commodi dolores officia voluptates! Molestias cumque adipisci ipsa, rerum non.",
-                "date": "10 june 2016"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/02.jpeg",
-                "title": "Lorem ipsum dolor sit amet, Illo autem, cum voluptas?",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At id in ipsam accusantium totam ex est, repellat, reiciendis non et minus beatae velit animi eaque nemo nam enim, praesentium accusamus, saepe ut odit eligendi asperiores. Nemo quis expedita dignissimos officia, aliquam ex porro explicabo dicta, molestias, quisquam pariatur ea ratione neque distinctio magni iusto est, alias iste repellendus. Deleniti, quis laboriosam libero doloremque iste nostrum molestias alias dicta suscipit labore reiciendis eum quas facere placeat repellat voluptate quaerat accusamus corrupti. Amet, iusto, suscipit nemo perferendis blanditiis laudantium dolor voluptate eaque, sint, enim corporis eius necessitatibus accusantium magni dignissimos non neque.",
-                "date": "10 june 2016"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/03.jpeg",
-                "title": "Ad harum eos, quisquam assumenda molestiae neque veritatis",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae delectus, laborum consequatur assumenda placeat, porro aspernatur cumque vero fugit harum quis modi obcaecati vel itaque numquam tenetur voluptatum maxime culpa quam eum consectetur veniam. Itaque totam, doloribus at? Tenetur, temporibus mollitia cupiditate. Doloremque quasi fugit velit et similique, neque optio facilis perferendis vitae minima quidem veniam totam quaerat suscipit tenetur aperiam id molestiae nobis cupiditate a rem dolorum doloribus? Suscipit officia expedita, nostrum et tempora amet repellat. Est molestiae odit debitis eaque, accusantium tempora. Ipsam eligendi dolores, illum magni maiores. Temporibus accusantium velit earum et repellendus labore accusamus iusto id.",
-                "date": "10 june 2016"
-              }
-            ],
-            "showImages": true,
-            "showTitle": true,
-            "showText": true,
-            "showDate": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
-          },
-          "_anchor": "news1-b"
-        },
-        {
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/features/03.jpg",
-              "class": ""
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-c",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grass.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#233f5b",
-            "bgCardImage": "@PROJECT_PATH@/assets/images/boy.jpg",
-            "showText": true,
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false
-          },
-          "text": "\"First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap theme design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world\"",
-          "title": "PANAJOT JELEV",
-          "subtitle": "Head of Online Communication  at Swisscom",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png"
-        },
-        {
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "accordion3",
-          "_anchor": "accordion3-d",
-          "_params": {
-            "tabs": "3",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": true,
-            "showText": true
-          },
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a>",
-          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
-          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
-          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
-          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
-          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "title": "Accordion FAQ",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam."
+          "_anchor": "wowslider-i",
+          "articleLayout": false
         }
       ]
     }
